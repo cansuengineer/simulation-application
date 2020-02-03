@@ -1,0 +1,17 @@
+[RESOURCES]
+muhasebeci
+isci1
+isci2
+[VARIABLES]
+Nakit.NumberOut
+tamir_bakim.NumberIn
+Kart.NumberIn
+Nakit.NumberIn
+Cikis.NumberOut
+Odeme_sekli.NumberOut False
+Lastik_Degisimi.NumberIn
+Odeme_sekli.NumberOut True
+Kart.NumberOut
+Lastik_Degisimi.NumberOut
+tamir_bakim.NumberOut
+isletmeye_giris.NumberOut

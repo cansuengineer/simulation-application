@@ -1,0 +1,986 @@
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 1 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .45067     (Insuf)    .32247     .66256         45    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         45    
+gelisler.WaitTime                           .70985     (Insuf)    .00000     1.1351         45    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         45    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         45    
+gelisler.TotalTime                          1.1605     (Insuf)    .33385     1.5632         45    
+Lastik_Degisimi.Queue.WaitingTime           .18734     (Insuf)    .00000     .49607         46    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         28    
+tamir_bakim.Queue.WaitingTime               .55129     (Insuf)    .00000     1.0185         49    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         17    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                5.7823     (Insuf)    .00000     9.0000     5.0000    
+muhasebeci.NumberBusy                       .12553     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .12553     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .99992     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .99992     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .98275     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .98275     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         .89611     (Insuf)    .00000     3.0000     2.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             2.7780     (Insuf)    .00000     5.0000     1.0000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          45.000    
+muhasebeci.NumberSeized                     45.000    
+muhasebeci.ScheduledUtilization             .12553    
+isci1.NumberSeized                          49.000    
+isci1.ScheduledUtilization                  .99992    
+isci2.NumberSeized                          46.000    
+isci2.ScheduledUtilization                  .98275    
+System.NumberOut                            45.000    
+
+Beginning replication 2 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 2 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .43517     (Insuf)    .29419     .59818         41    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         41    
+gelisler.WaitTime                           .72300     (Insuf)    .00000     1.5931         41    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         41    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         41    
+gelisler.TotalTime                          1.1581     (Insuf)    .46202     2.0666         41    
+Lastik_Degisimi.Queue.WaitingTime           .69677     (Insuf)    .00000     1.5440         43    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         27    
+tamir_bakim.Queue.WaitingTime               .07985     (Insuf)    .00000     .26917         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         15    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                5.8718     (Insuf)    .00000     11.000     9.0000    
+muhasebeci.NumberBusy                       .09229     (Insuf)    .00000     1.0000     1.0000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .09229     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberBusy                            .93156     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .93156     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .96828     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .96828     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         3.4804     (Insuf)    .00000     8.0000     7.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .39924     (Insuf)    .00000     2.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          41.000    
+muhasebeci.NumberSeized                     42.000    
+muhasebeci.ScheduledUtilization             .09229    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .93156    
+isci2.NumberSeized                          43.000    
+isci2.ScheduledUtilization                  .96828    
+System.NumberOut                            41.000    
+
+Beginning replication 3 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 3 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .43620     (Insuf)    .23389     .62713         44    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         44    
+gelisler.WaitTime                           .97065     (Insuf)    .00000     1.5178         44    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         44    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         44    
+gelisler.TotalTime                          1.4068     (Insuf)    .33700     1.9122         44    
+Lastik_Degisimi.Queue.WaitingTime           .57620     (Insuf)    .00000     1.2204         45    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         27    
+tamir_bakim.Queue.WaitingTime               .37507     (Insuf)    .00000     .79163         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         17    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                6.9535     (Insuf)    .00000     10.000     6.0000    
+muhasebeci.NumberBusy                       .11867     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .11867     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .94983     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .94983     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .98993     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .98993     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         3.0197     (Insuf)    .00000     7.0000     5.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             1.8753     (Insuf)    .00000     4.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          44.000    
+muhasebeci.NumberSeized                     44.000    
+muhasebeci.ScheduledUtilization             .11867    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .94983    
+isci2.NumberSeized                          45.000    
+isci2.ScheduledUtilization                  .98993    
+System.NumberOut                            44.000    
+
+Beginning replication 4 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 4 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .43583     (Insuf)    .24071     .62825         44    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         44    
+gelisler.WaitTime                           .39913     (Insuf)    .00000     .87396         44    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         44    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         44    
+gelisler.TotalTime                          .83497     (Insuf)    .34610     1.2983         44    
+Lastik_Degisimi.Queue.WaitingTime           .30947     (Insuf)    .00000     .63284         45    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         18    
+tamir_bakim.Queue.WaitingTime               .11801     (Insuf)    .00000     .35691         49    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         26    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                4.1222     (Insuf)    .00000     7.0000     6.0000    
+muhasebeci.NumberBusy                       .14253     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .14253     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .92302     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .92302     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .96118     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .96118     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.4905     (Insuf)    .00000     3.0000     3.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .60491     (Insuf)    .00000     3.0000     1.0000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          44.000    
+muhasebeci.NumberSeized                     44.000    
+muhasebeci.ScheduledUtilization             .14253    
+isci1.NumberSeized                          49.000    
+isci1.ScheduledUtilization                  .92302    
+isci2.NumberSeized                          45.000    
+isci2.ScheduledUtilization                  .96118    
+System.NumberOut                            44.000    
+
+Beginning replication 5 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 5 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .40149     (Insuf)    .20859     .62130         46    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         46    
+gelisler.WaitTime                           .19931     (Insuf)    .00000     .55204         46    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         46    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         46    
+gelisler.TotalTime                          .60080     (Insuf)    .29254     .91666         46    
+Lastik_Degisimi.Queue.WaitingTime           .14195     (Insuf)    .00000     .44685         47    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         28    
+tamir_bakim.Queue.WaitingTime               .05698     (Insuf)    .00000     .36364         48    
+Kart.Queue.WaitingTime                      4.8076E-05 (Insuf)    .00000     8.6537E-04     18    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                2.8786     (Insuf)    .00000     5.0000     4.0000    
+muhasebeci.NumberBusy                       .10290     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .10290     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .87246     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .87246     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .93422     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .93422     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         .66717     (Insuf)    .00000     3.0000     .00000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .30183     (Insuf)    .00000     2.0000     2.0000    
+Kart.Queue.NumberInQueue                    8.6537E-05 (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          46.000    
+muhasebeci.NumberSeized                     46.000    
+muhasebeci.ScheduledUtilization             .10290    
+isci1.NumberSeized                          48.000    
+isci1.ScheduledUtilization                  .87246    
+isci2.NumberSeized                          47.000    
+isci2.ScheduledUtilization                  .93422    
+System.NumberOut                            46.000    
+
+Beginning replication 6 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 6 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .44886     (Insuf)    .24881     .61002         42    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         42    
+gelisler.WaitTime                           .92801     (Insuf)    .00000     1.6710         42    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         42    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         42    
+gelisler.TotalTime                          1.3768     (Insuf)    .47524     2.1266         42    
+Lastik_Degisimi.Queue.WaitingTime           .66390     (Insuf)    .00000     1.3196         43    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         23    
+tamir_bakim.Queue.WaitingTime               .33164     (Insuf)    .00000     .67987         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         19    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                6.9912     (Insuf)    .00000     12.000     8.0000    
+muhasebeci.NumberBusy                       .11598     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .11598     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .99264     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .99264     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .95754     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .95754     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         3.2668     (Insuf)    .00000     7.0000     7.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             1.6582     (Insuf)    .00000     4.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          42.000    
+muhasebeci.NumberSeized                     42.000    
+muhasebeci.ScheduledUtilization             .11598    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .99264    
+isci2.NumberSeized                          43.000    
+isci2.ScheduledUtilization                  .95754    
+System.NumberOut                            42.000    
+
+Beginning replication 7 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 7 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .43088     (Insuf)    .28234     .57262         44    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         44    
+gelisler.WaitTime                           .39497     (Insuf)    .00000     .94327         44    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         44    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         44    
+gelisler.TotalTime                          .82585     (Insuf)    .45445     1.3293         44    
+Lastik_Degisimi.Queue.WaitingTime           .18631     (Insuf)    .00000     .64825         45    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         30    
+tamir_bakim.Queue.WaitingTime               .22190     (Insuf)    .00000     .59983         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         14    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                4.1637     (Insuf)    .00000     7.0000     6.0000    
+muhasebeci.NumberBusy                       .08704     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .08704     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .96961     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .96961     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .95407     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .95407     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.0435     (Insuf)    .00000     5.0000     5.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             1.1095     (Insuf)    .00000     4.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          44.000    
+muhasebeci.NumberSeized                     44.000    
+muhasebeci.ScheduledUtilization             .08704    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .96961    
+isci2.NumberSeized                          45.000    
+isci2.ScheduledUtilization                  .95407    
+System.NumberOut                            44.000    
+
+Beginning replication 8 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 8 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .45724     (Insuf)    .20919     .70769         41    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         41    
+gelisler.WaitTime                           .67698     (Insuf)    .00000     1.2599         41    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         41    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         41    
+gelisler.TotalTime                          1.1342     (Insuf)    .42906     1.7423         41    
+Lastik_Degisimi.Queue.WaitingTime           .62501     (Insuf)    .00000     1.2058         42    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         25    
+tamir_bakim.Queue.WaitingTime               .07365     (Insuf)    .00000     .25350         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         16    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                5.5086     (Insuf)    .00000     9.0000     9.0000    
+muhasebeci.NumberBusy                       .12777     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .12777     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .96731     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .96731     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .96865     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .96865     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         3.0766     (Insuf)    .00000     7.0000     7.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .36826     (Insuf)    .00000     2.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          41.000    
+muhasebeci.NumberSeized                     41.000    
+muhasebeci.ScheduledUtilization             .12777    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .96731    
+isci2.NumberSeized                          42.000    
+isci2.ScheduledUtilization                  .96865    
+System.NumberOut                            41.000    
+
+Beginning replication 9 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 9 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .42061     (Insuf)    .21520     .57971         43    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         43    
+gelisler.WaitTime                           .27819     (Insuf)    .00000     .75059         43    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         43    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         43    
+gelisler.TotalTime                          .69880     (Insuf)    .34653     1.1773         43    
+Lastik_Degisimi.Queue.WaitingTime           .10385     (Insuf)    .00000     .49772         44    
+Nakit.Queue.WaitingTime                     5.5427E-04 (Insuf)    .00000     .01386         25    
+tamir_bakim.Queue.WaitingTime               .18505     (Insuf)    .00000     .55790         48    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         18    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                3.3265     (Insuf)    .00000     6.0000     6.0000    
+muhasebeci.NumberBusy                       .10784     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .10784     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .91944     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .91944     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .88306     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .88306     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         .52321     (Insuf)    .00000     3.0000     3.0000    
+Nakit.Queue.NumberInQueue                   .00139     (Insuf)    .00000     1.0000     .00000    
+tamir_bakim.Queue.NumberInQueue             .89157     (Insuf)    .00000     3.0000     1.0000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           49.000    
+gelisler.NumberOut                          43.000    
+muhasebeci.NumberSeized                     43.000    
+muhasebeci.ScheduledUtilization             .10784    
+isci1.NumberSeized                          48.000    
+isci1.ScheduledUtilization                  .91944    
+isci2.NumberSeized                          44.000    
+isci2.ScheduledUtilization                  .88306    
+System.NumberOut                            43.000    
+
+Beginning replication 10 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 10 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .42109     (Insuf)    .23050     .60786         44    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         44    
+gelisler.WaitTime                           .42734     (Insuf)    .00000     1.2209         44    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         44    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         44    
+gelisler.TotalTime                          .84843     (Insuf)    .36540     1.6316         44    
+Lastik_Degisimi.Queue.WaitingTime           .21876     (Insuf)    .00000     .79623         45    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         34    
+tamir_bakim.Queue.WaitingTime               .24006     (Insuf)    .00000     .57335         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                4.2747     (Insuf)    .00000     8.0000     6.0000    
+muhasebeci.NumberBusy                       .07140     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .07140     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .96320     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .96320     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .91093     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .91093     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.1289     (Insuf)    .00000     5.0000     4.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             1.2003     (Insuf)    .00000     3.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          44.000    
+muhasebeci.NumberSeized                     44.000    
+muhasebeci.ScheduledUtilization             .07140    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .96320    
+isci2.NumberSeized                          45.000    
+isci2.ScheduledUtilization                  .91093    
+System.NumberOut                            44.000    
+
+Beginning replication 11 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 11 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .42968     (Insuf)    .23535     .65427         44    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         44    
+gelisler.WaitTime                           .68090     (Insuf)    .00000     1.3364         44    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         44    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         44    
+gelisler.TotalTime                          1.1105     (Insuf)    .55335     1.7907         44    
+Lastik_Degisimi.Queue.WaitingTime           .60236     (Insuf)    .00000     1.0184         45    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         23    
+tamir_bakim.Queue.WaitingTime               .10988     (Insuf)    .00000     .34657         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         21    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                5.5348     (Insuf)    .00000     9.0000     6.0000    
+muhasebeci.NumberBusy                       .10896     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .10896     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .93967     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .93967     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .97456     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .97456     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         2.9622     (Insuf)    .00000     6.0000     5.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .54942     (Insuf)    .00000     2.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          44.000    
+muhasebeci.NumberSeized                     44.000    
+muhasebeci.ScheduledUtilization             .10896    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .93967    
+isci2.NumberSeized                          45.000    
+isci2.ScheduledUtilization                  .97456    
+System.NumberOut                            44.000    
+
+Beginning replication 12 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 12 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .43376     (Insuf)    .24491     .64044         47    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         47    
+gelisler.WaitTime                           .34251     (Insuf)    .00000     .65957         47    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         47    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         47    
+gelisler.TotalTime                          .77627     (Insuf)    .42699     1.0934         47    
+Lastik_Degisimi.Queue.WaitingTime           .24530     (Insuf)    .00000     .52456         48    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         26    
+tamir_bakim.Queue.WaitingTime               .09039     (Insuf)    .00000     .24753         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         21    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                3.7368     (Insuf)    .00000     6.0000     3.0000    
+muhasebeci.NumberBusy                       .12942     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .12942     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .98290     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .98290     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .97963     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .97963     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.1928     (Insuf)    .00000     3.0000     1.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .45197     (Insuf)    .00000     2.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          47.000    
+muhasebeci.NumberSeized                     47.000    
+muhasebeci.ScheduledUtilization             .12942    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .98290    
+isci2.NumberSeized                          48.000    
+isci2.ScheduledUtilization                  .97963    
+System.NumberOut                            47.000    
+
+Beginning replication 13 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 13 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .40469     (Insuf)    .23922     .61908         47    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         47    
+gelisler.WaitTime                           .33236     (Insuf)    .00000     .61859         47    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         47    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         47    
+gelisler.TotalTime                          .73705     (Insuf)    .32030     .96389         47    
+Lastik_Degisimi.Queue.WaitingTime           .28229     (Insuf)    .00000     .59616         48    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         27    
+tamir_bakim.Queue.WaitingTime               .04895     (Insuf)    .00000     .29051         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         20    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                3.5708     (Insuf)    .00000     5.0000     3.0000    
+muhasebeci.NumberBusy                       .13682     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .13682     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .87818     (Insuf)    .00000     1.0000     1.0000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .87818     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberBusy                            .95265     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .95265     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.3584     (Insuf)    .00000     3.0000     1.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             .24473     (Insuf)    .00000     2.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          47.000    
+muhasebeci.NumberSeized                     47.000    
+muhasebeci.ScheduledUtilization             .13682    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .87818    
+isci2.NumberSeized                          48.000    
+isci2.ScheduledUtilization                  .95265    
+System.NumberOut                            47.000    
+
+Beginning replication 14 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 14 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .42590     (Insuf)    .23488     .67916         45    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         45    
+gelisler.WaitTime                           .66821     (Insuf)    .00000     1.2997         45    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         45    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         45    
+gelisler.TotalTime                          1.0941     (Insuf)    .36291     1.6488         45    
+Lastik_Degisimi.Queue.WaitingTime           .25632     (Insuf)    .00000     .69118         46    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         33    
+tamir_bakim.Queue.WaitingTime               .43018     (Insuf)    .00000     .75726         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         12    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                5.4834     (Insuf)    .00000     9.0000     5.0000    
+muhasebeci.NumberBusy                       .09825     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .09825     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .99505     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .99505     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .93366     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .93366     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.3055     (Insuf)    .00000     4.0000     4.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             2.1509     (Insuf)    .00000     4.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          45.000    
+muhasebeci.NumberSeized                     45.000    
+muhasebeci.ScheduledUtilization             .09825    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .99505    
+isci2.NumberSeized                          46.000    
+isci2.ScheduledUtilization                  .93366    
+System.NumberOut                            45.000    
+
+Beginning replication 15 of 15
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                  Summary for Replication 15 of 15
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+gelisler.VATime                             .43956     (Insuf)    .23418     .63709         45    
+gelisler.NVATime                            .00000     (Insuf)    .00000     .00000         45    
+gelisler.WaitTime                           .61005     (Insuf)    .00000     1.0328         45    
+gelisler.TranTime                           .00000     (Insuf)    .00000     .00000         45    
+gelisler.OtherTime                          .00000     (Insuf)    .00000     .00000         45    
+gelisler.TotalTime                          1.0496     (Insuf)    .35541     1.5923         45    
+Lastik_Degisimi.Queue.WaitingTime           .33486     (Insuf)    .00000     .93574         46    
+Nakit.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         29    
+tamir_bakim.Queue.WaitingTime               .29455     (Insuf)    .00000     .57292         50    
+Kart.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         16    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+gelisler.WIP                                5.2082     (Insuf)    .00000     9.0000     5.0000    
+muhasebeci.NumberBusy                       .12475     (Insuf)    .00000     1.0000     .00000    
+muhasebeci.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+muhasebeci.Utilization                      .12475     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberBusy                            .97925     (Insuf)    .00000     1.0000     .00000    
+isci1.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci1.Utilization                           .97925     (Insuf)    .00000     1.0000     .00000    
+isci2.NumberBusy                            .96280     (Insuf)    .00000     1.0000     1.0000    
+isci2.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+isci2.Utilization                           .96280     (Insuf)    .00000     1.0000     1.0000    
+Lastik_Degisimi.Queue.NumberInQueue         1.6687     (Insuf)    .00000     5.0000     4.0000    
+Nakit.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+tamir_bakim.Queue.NumberInQueue             1.4727     (Insuf)    .00000     3.0000     .00000    
+Kart.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+gelisler.NumberIn                           50.000    
+gelisler.NumberOut                          45.000    
+muhasebeci.NumberSeized                     45.000    
+muhasebeci.ScheduledUtilization             .12475    
+isci1.NumberSeized                          50.000    
+isci1.ScheduledUtilization                  .97925    
+isci2.NumberSeized                          46.000    
+isci2.ScheduledUtilization                  .96280    
+System.NumberOut                            45.000    
+
+
+                                      ARENA Simulation Results
+                                      Cansu - License: STUDENT
+
+                                 Output Summary for 15 Replications
+
+Project: Unnamed Project                                             Run execution date : 1/10/2020
+Analyst: Cansu                                                       Model revision date: 1/10/2020
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+gelisler.NumberIn                           49.933     .14300     49.000     50.000     15
+gelisler.NumberOut                          44.133     1.0226     41.000     47.000     15
+muhasebeci.NumberSeized                     44.200     .96383     41.000     47.000     15
+muhasebeci.ScheduledUtilization             .11268     .01094     .07140     .14253     15
+isci1.NumberSeized                          49.600     .40806     48.000     50.000     15
+isci1.ScheduledUtilization                  .95094     .02215     .87246     .99992     15
+isci2.NumberSeized                          45.200     .96383     42.000     48.000     15
+isci2.ScheduledUtilization                  .95426     .01584     .88306     .98993     15
+System.NumberOut                            44.133     1.0226     41.000     47.000     15
+
+Simulation run time: 0.13 minutes.
+Simulation run complete.
